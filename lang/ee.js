@@ -1,125 +1,125 @@
 TRANSLATIONS = {
 	
-	"Driving Logbook": "",
+	"Driving Logbook": "Sõidupäevik",
 
-	"Logbook": "",
+	"Logbook": "Sõidupäevik",
 
-	"Unit": "",
+	"Unit": "Masin",
 	
-	"From": "",
+	"From": "Alates",
 	
-	"To": "",
+	"To": "Kuni",
 	
-	"OK": "",
+	"OK": "OK",
 	
-	"Beginning": "",
+	"Beginning": "Algus",
 	
-	"End": "",
+	"End": "Lõpp",
 	
-	"Duration": "",
+	"Duration": "Kestvus",
 	
-	"Initial location": "",
+	"Initial location": "Algne asukoht",
 	
-	"Final location": "",
+	"Final location": "Lõppasukoht",
 
-	"Initial mileage": "",
+	"Initial mileage": "Algne läbisõit",
 
-	"Final mileage": "",
+	"Final mileage": "Lõplik läbisõit",
 
-	"Mileage": "",
+	"Mileage": "Läbisõit",
 	
-	"Driver": "",
+	"Driver": "Juht",
 	
-	"User": "",
+	"User": "Kasutaja",
 	
-	"Last changes": "",
+	"Last changes": "Viimane muutus",
 	
-	"Trip status": "",
+	"Trip status": "Sõidu eesmärk",
 	
-	"Business": "",
+	"Business": "Töösõit",
 	
-	"Personal": "",
+	"Personal": "Erasõit",
 	
-	"Notes": "",
+	"Notes": "Märkused",
 	
-	"Page&nbsp;": "",
+	"Page&nbsp;": "Leht&nbsp",
 	
-	"&nbsp;of&nbsp;": "",
+	"&nbsp;of&nbsp;": "&nbsp;&nbsp;-st",
 	
-	"Apply": "",
+	"Apply": "Rakenda",
 	
-	"Displaying %d to %d of %d items": "",
+	"Displaying %d to %d of %d items": "Kuvatakse %d kuni %d rida %d-st",
 	
-	"List of units empty.": "",
+	"List of units empty.": "Masinate nimekiri on tühi.",
 	
-	"Login error.": "",
+	"Login error.": "Viga sisselogimisel.",
 	
-	"Please select unit.": "",
+	"Please select unit.": "Palun valige masin.",
 	
-	"Please select time interval.": "",
+	"Please select time interval.": "Palun valige ajavahemik.",
 	
-	"No data for selected interval.": "",
+	"No data for selected interval.": "Valitud ajavahemikus puuduvad andmed.",
 
-    "km": "",
+    "km": "km",
 
-    "mi": "",
+    "mi": "mi",
 
-    "%d pages_1": "%d page",
-    "%d pages_2": "%d pages",
-    "%d pages_5": "%d pages",
+    "%d pages_1": "%d leht",
+    "%d pages_2": "%d lehte",
+    "%d pages_5": "%d lehte,
 
-    "Start": "",
+    "Start": "Start",
 
-    "Prev": "",
+    "Prev": "Eelmine",
 
-    "Next": "",
+    "Next": "Järgmine",
 
-    "Print": "",
+    "Print": "Prindi",
 
-    "Yesterday": "",
-    "Today": "",
-    "Week": "",
-    "Month": "",
-    "Custom": "",
+    "Yesterday": "Eile",
+    "Today": "Täna",
+    "Week": "Nädal",
+    "Month": "Kuu",
+    "Custom": "Kohandatud",
 
-    "Sunday": "",
-    "Monday": "",
-    "Tuesday": "",
-    "Wednesday": "",
-    "Thursday": "",
-    "Friday": "",
-    "Saturday": "",
+    "Sunday": "Pühapäev",
+    "Monday": "Esmaspäev",
+    "Tuesday": "Teisipäev",
+    "Wednesday": "Kolmapäev",
+    "Thursday": "Neljapäev",
+    "Friday": "Reede",
+    "Saturday": "Laupäev",
 
-    "January": "",
-    "February": "",
-    "March": "",
-    "April": "",
-    "May": "",
-    "June": "",
-    "July": "",
-    "August": "",
-    "September": "",
-    "October": "",
-    "November": "",
-    "December": "",
+    "January": "Jaanuar",
+    "February": "Veebruar",
+    "March": "Märts",
+    "April": "Aprill",
+    "May": "Mai",
+    "June": "Juuni",
+    "July": "Juuli",
+    "August": "August",
+    "September": "September",
+    "October": "Oktoober",
+    "November": "November",
+    "December": "Detsember",
 
-    "Sun": "",
-    "Mon": "",
-    "Tue": "",
-    "Wed": "",
-    "Thu": "",
-    "Fri": "",
-    "Sat": "",
+    "Sun": "P",
+    "Mon": "E",
+    "Tue": "T",
+    "Wed": "K",
+    "Thu": "N",
+    "Fri": "R",
+    "Sat": "L",
 
-    "Jan": "",
-    "Feb": "",
-    "Mar": "",
-    "Apr": "",
-    "Jun": "",
-    "Jul": "",
-    "Aug": "",
-    "Sep": "",
-    "Oct": "",
-    "Nov": "",
-    "Dec": ""
+    "Jan": "Jaan",
+    "Feb": "Veebr",
+    "Mar": "Märts",
+    "Apr": "Apr",
+    "Jun": "Juuni",
+    "Jul": "Juuli",
+    "Aug": "Aug",
+    "Sep": "Sept",
+    "Oct": "Okt",
+    "Nov": "Nov",
+    "Dec": "Dets"
 }
